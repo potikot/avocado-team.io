@@ -1,6 +1,4 @@
-div
+body
 {
-	width: 400px;
-	height: 400px;
-	background-color: darkred;
+	background-image: linear-gradient(#eee, #1c87c9);
 }
